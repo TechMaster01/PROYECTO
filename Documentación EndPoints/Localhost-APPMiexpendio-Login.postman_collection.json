@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "23c3e78c-9659-4c1d-8bfd-76b621b5bf72",
+		"name": "Localhost/APPMiexpendio/Login",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "30518495"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"USUARIO\": \"ANGELICAIB23\",\r\n    \"PASSWORD\": \"BELTRAN23\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8080/login"
+			},
+			"response": []
+		}
+	]
+}

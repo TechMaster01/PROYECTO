@@ -1,0 +1,64 @@
+{
+	"info": {
+		"_postman_id": "6781e089-6ce1-4990-8401-683ed51fa25f",
+		"name": "Localhost/APPMiExpendio/Ordenes",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "30518495"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/ordenes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8080/ordenes/"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/ordenes/",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n            \"ID_ORDEN\": \"7\",\r\n            \"USUARIO\": \"IRVINGEM23\",\r\n            \"FECHA_ORDEN\": \"2023-11-08 21:41:01\",\r\n            \"TOTAL\": \"150.00\"\r\n        }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8080/ordenes/"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/ordenes/7",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n            \"ID_ORDEN\": \"7\",\r\n            \"USUARIO\": \"IRVINGEM23\",\r\n            \"FECHA_ORDEN\": \"2023-11-08 21:41:01\",\r\n            \"TOTAL\": \"100.00\"\r\n        }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8080/ordenes/7"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/ordenes/7",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": "http://localhost:8080/ordenes/7"
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,1324 @@
+CRITICAL - 2023-11-20 00:54:29 --> Class "app\Models\ModeloProveedores" not found
+in APPPATH\Controllers\ControladorProveedores.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+CRITICAL - 2023-11-20 00:54:32 --> Class "app\Models\ModeloProveedores" not found
+in APPPATH\Controllers\ControladorProveedores.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+CRITICAL - 2023-11-20 00:54:33 --> Class "app\Models\ModeloProveedores" not found
+in APPPATH\Controllers\ControladorProveedores.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+CRITICAL - 2023-11-20 00:54:33 --> Class "app\Models\ModeloProveedores" not found
+in APPPATH\Controllers\ControladorProveedores.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+CRITICAL - 2023-11-20 00:55:22 --> Class "app\Models\ModeloProveedores" not found
+in APPPATH\Controllers\ControladorProveedores.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+CRITICAL - 2023-11-20 00:55:38 --> Class "app\Models\ModeloProveedores" not found
+in APPPATH\Controllers\ControladorProveedores.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+CRITICAL - 2023-11-20 00:55:38 --> Class "app\Models\ModeloProveedores" not found
+in APPPATH\Controllers\ControladorProveedores.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+CRITICAL - 2023-11-20 00:55:39 --> Class "app\Models\ModeloProveedores" not found
+in APPPATH\Controllers\ControladorProveedores.php on line 18.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 00:58:27 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'miexpendio', 3306, '', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#11 {main}
+CRITICAL - 2023-11-20 00:58:27 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `proveedores`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 00:58:28 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'miexpendio', 3306, '', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#11 {main}
+CRITICAL - 2023-11-20 00:58:28 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `proveedores`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 00:58:28 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'miexpendio', 3306, '', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#11 {main}
+CRITICAL - 2023-11-20 00:58:28 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `proveedores`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 00:58:29 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'miexpendio', 3306, '', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#11 {main}
+CRITICAL - 2023-11-20 00:58:29 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `proveedores`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 00:58:55 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'miexpendio', 3306, '', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#11 {main}
+CRITICAL - 2023-11-20 00:58:55 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `proveedores`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 00:59:48 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'miexpendio', 3306, '', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#11 {main}
+CRITICAL - 2023-11-20 00:59:48 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `proveedores`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 01:00:37 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'miexpendio', 3306, '', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#11 {main}
+CRITICAL - 2023-11-20 01:00:37 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `proveedores`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 01:00:56 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'miexpendio', 3306, '', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#11 {main}
+CRITICAL - 2023-11-20 01:00:56 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `proveedores`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 01:00:57 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'miexpendio', 3306, '', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#11 {main}
+CRITICAL - 2023-11-20 01:00:57 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `proveedores`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 01:00:58 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'miexpendio', 3306, '', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#11 {main}
+CRITICAL - 2023-11-20 01:00:58 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `proveedores`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 01:01:34 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'miexpendio', 3306, '', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#11 {main}
+CRITICAL - 2023-11-20 01:01:34 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `proveedores`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 01:02:03 --> Error connecting to the database: mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'miexpendio', 3306, '', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Access denied for user '****'@'localhost' (using password: YES) in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#11 {main}
+CRITICAL - 2023-11-20 01:02:03 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `proveedores`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\ControladorProveedores.php(20): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:14:25 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:14:25 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:15:05 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:15:05 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:15:10 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:15:10 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:20:19 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:20:19 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:23:57 --> mysqli_sql_exception: Duplicate entry '5' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:23:57 --> Duplicate entry '5' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`ID_PROVEEDOR`, `NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:ID_PROVEEDOR:, :NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:29:32 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:29:32 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:29:34 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:29:34 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:29:35 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:29:35 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:29:36 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:29:36 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:29:37 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:29:37 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:29:38 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:29:38 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:30:01 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:30:01 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:30:32 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:30:32 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:30:51 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:30:51 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:31:10 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:31:10 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:31:11 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:31:11 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:31:23 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:31:23 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:31:41 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:31:41 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:31:43 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:31:43 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 04:31:51 --> mysqli_sql_exception: Duplicate entry '5' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `pr...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 04:31:51 --> Duplicate entry '5' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `proveedores` (`ID_PROVEEDOR`, `NOMBRE_PROVEEDOR`, `DESCRIPCION`) VALUES (:ID_PROVEEDOR:, :NOMBRE_PROVEEDOR:, :DESCRIPCION:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProveedores.php(71): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProveedores->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProveedores))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 05:20:48 --> mysqli_sql_exception: Duplicate entry '' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `PR...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `PR...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `PR...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `PR...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProductos.php(73): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProductos->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 05:20:48 --> Duplicate entry '' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `PRODUCTOS` (`NOMBRE_PRODUCTO`, `DESCRIPCION`, `STOCK`, `PRECIO`, `ID_PROVEEDOR`) VALUES (:NOMBRE_PRODUCTO:, :DESCRIPCION:, :STOCK:, :PRECIO:, :ID_PROVEEDOR:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProductos.php(73): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProductos->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 05:21:32 --> mysqli_sql_exception: Duplicate entry '7500478018512' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `PR...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `PR...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `PR...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `PR...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProductos.php(73): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProductos->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 05:21:32 --> Duplicate entry '7500478018512' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `PRODUCTOS` (`ID_PRODUCTO`, `NOMBRE_PRODUCTO`, `DESCRIPCION`, `STOCK`, `PRECIO`, `ID_PROVEEDOR`) VALUES (:ID_PRODUCTO:, :NOMBRE_PRODUCTO:, :DESCRIPCION:, :STOCK:, :PRECIO:, :ID_PROVEEDOR:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProductos.php(73): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProductos->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 05:21:39 --> mysqli_sql_exception: Duplicate entry '1' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `PR...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `PR...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `PR...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `PR...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProductos.php(73): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProductos->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 05:21:39 --> Duplicate entry '1' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `PRODUCTOS` (`ID_PRODUCTO`, `NOMBRE_PRODUCTO`, `DESCRIPCION`, `STOCK`, `PRECIO`, `ID_PROVEEDOR`) VALUES (:ID_PRODUCTO:, :NOMBRE_PRODUCTO:, :DESCRIPCION:, :STOCK:, :PRECIO:, :ID_PROVEEDOR:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProductos.php(73): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProductos->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 05:34:56 --> mysqli_sql_exception: Duplicate entry '2' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `PR...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `PR...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `PR...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `PR...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProductos.php(73): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProductos->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 05:34:56 --> Duplicate entry '2' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `PRODUCTOS` (`ID_PRODUCTO`, `NOMBRE_PRODUCTO`, `DESCRIPCION`, `STOCK`, `PRECIO`, `ID_PROVEEDOR`) VALUES (:ID_PRODUCTO:, :NOMBRE_PRODUCTO:, :DESCRIPCION:, :STOCK:, :PRECIO:, :ID_PROVEEDOR:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProductos.php(73): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProductos->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+CRITICAL - 2023-11-20 05:36:37 --> Undefined property: stdClass::$NOMBRE_PROVEEDOR
+in APPPATH\Controllers\ControladorProductos.php on line 108.
+ 1 APPPATH\Controllers\ControladorProductos.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$NOMBRE_PROVEEDOR', 'C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\app\\Controllers\\ControladorProductos.php', 108)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProductos->update('3')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+CRITICAL - 2023-11-20 05:36:52 --> Undefined property: stdClass::$NOMBRE_PROVEEDOR
+in APPPATH\Controllers\ControladorProductos.php on line 108.
+ 1 APPPATH\Controllers\ControladorProductos.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$NOMBRE_PROVEEDOR', 'C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\app\\Controllers\\ControladorProductos.php', 108)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProductos->update('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+CRITICAL - 2023-11-20 05:38:02 --> Undefined property: stdClass::$NOMBRE_PROVEEDOR
+in APPPATH\Controllers\ControladorProductos.php on line 108.
+ 1 APPPATH\Controllers\ControladorProductos.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$NOMBRE_PROVEEDOR', 'C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\app\\Controllers\\ControladorProductos.php', 108)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProductos->update('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+CRITICAL - 2023-11-20 05:39:11 --> Undefined property: stdClass::$NOMBRE_PROVEEDOR
+in APPPATH\Controllers\ControladorProductos.php on line 108.
+ 1 APPPATH\Controllers\ControladorProductos.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$NOMBRE_PROVEEDOR', 'C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\app\\Controllers\\ControladorProductos.php', 108)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProductos->update('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+CRITICAL - 2023-11-20 05:39:30 --> Undefined property: stdClass::$NOMBRE_PROVEEDOR
+in APPPATH\Controllers\ControladorProductos.php on line 108.
+ 1 APPPATH\Controllers\ControladorProductos.php(108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$NOMBRE_PROVEEDOR', 'C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\app\\Controllers\\ControladorProductos.php', 108)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProductos->update('2')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')
+ERROR - 2023-11-20 05:42:27 --> mysqli_sql_exception: Duplicate entry '3' for key 'PRIMARY' in C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `PR...', 0)
+#1 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `PR...')
+#2 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `PR...')
+#3 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `PR...', Array, false)
+#4 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\app\Controllers\ControladorProductos.php(73): CodeIgniter\Model->insert(Array)
+#8 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(919): App\Controllers\ControladorProductos->create()
+#9 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+#10 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\lunam\OneDrive\Documents\Facultad de informática\SEMESTRE - VII\Computo Movil\Proyecto PTV\API\system\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\...')
+#13 {main}
+CRITICAL - 2023-11-20 05:42:27 --> Duplicate entry '3' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `PRODUCTOS` (`ID_PRODUCTO`, `NOMBRE_PRODUCTO`, `DESCRIPCION`, `STOCK`, `PRECIO`, `ID_PROVEEDOR`) VALUES (:ID_PRODUCTO:, :NOMBRE_PRODUCTO:, :DESCRIPCION:, :STOCK:, :PRECIO:, :ID_PROVEEDOR:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\ControladorProductos.php(73): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ControladorProductos->create()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorProductos))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\lunam\\OneDrive\\Documents\\Facultad de informática\\SEMESTRE - VII\\Computo Movil\\Proyecto PTV\\API\\public\\index.php')

@@ -1,0 +1,64 @@
+{
+	"info": {
+		"_postman_id": "9be5b31e-fab9-4908-8928-ecf25bce35ff",
+		"name": "Localhost/APPMiExpendio/Proveedores",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "30518495"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/proveedores",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8080/proveedores"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/proveedores/",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n            \"ID_PROVEEDOR\": \"6\",\r\n            \"NOMBRE_PROVEEDOR\": \"SA\",\r\n            \"DESCRIPCION\": \"PROVEEDOR DE BOTANA\"\r\n        }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8080/proveedores/"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/proveedores/5",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n            \"ID_PROVEEDOR\": \"5\",\r\n            \"NOMBRE_PROVEEDOR\": \"SASA\",\r\n            \"DESCRIPCION\": \"PROVEEDOR BOTANA\"\r\n        }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8080/proveedores/5"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/proveedores/5",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": "http://localhost:8080/proveedores/5"
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"info": {
+		"_postman_id": "9d874878-8290-46da-9e2b-72ca0cfb0b7a",
+		"name": "Localhost/APPMiExpendio/Usuarios",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "30518495"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/usuarios",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8080/usuarios/IRVINGEM23"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/usuarios/",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"USUARIO\": \"IRVINGEM2\",\r\n        \"ID_ROL\": \"2\",\r\n        \"NOMBRE_USUARIO\": \"IRVING EDUARDO MARTINEZ\",\r\n        \"DIRECCION\": \"C. JOSEFA ORTIZ DE DOMINGUEZ, CD UNIVERSITARIA, CIUDAD UNIVERSITARIA, 80013 CULIACAN ROSALES, SIN.\",\r\n        \"EMAIL\": \"ie.martinez20@info.uas.edu.mx\",\r\n        \"CELULAR\": \"6673348519\",\r\n        \"PASSWORD\": \"MARTINEZ23\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8080/usuarios/"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/usuarios/4",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"USUARIO\": \"k\",\r\n        \"ID_ROL\": \"2\",\r\n        \"NOMBRE_USUARIO\": \"IRVZ\",\r\n        \"DIRECCION\": \"C. JOSEFA ORTIZ DE DOMINGUEZ, CD UNIIA, 80013 CULIACAN ROSALES, SIN.\",\r\n        \"EMAIL\": \"ie.martinez.edu.mx\",\r\n        \"CELULAR\": \"667319\",\r\n        \"PASSWORD\": \"MARZ23\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8080/usuarios/k"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/usuarios/4",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": "http://localhost:8080/usuarios/k"
+			},
+			"response": []
+		}
+	]
+}

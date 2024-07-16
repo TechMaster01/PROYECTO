@@ -1,0 +1,73 @@
+{
+	"info": {
+		"_postman_id": "f03c6f42-8f94-494d-a76b-5e4f8a96cfb9",
+		"name": "Localhost/APPMiExpendio/Productos",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "30518495"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/productos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:8080/productos/"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/productos",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n            \"ID_PRODUCTO\": \"3\",\r\n            \"NOMBRE_PRODUCTO\": \"DORITOS MODIFIE\",\r\n            \"DESCRIPCION\": \"DORITOS DINAMITA\",\r\n            \"STOCK\": \"8\",\r\n            \"PRECIO\": \"18.00\",\r\n            \"ID_PROVEEDOR\": \"2\"\r\n        }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8080/productos/3"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/productos/",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n            \"ID_PRODUCTO\": \"3\",\r\n            \"NOMBRE_PRODUCTO\": \"DORITOS PUTOS JOTOS\",\r\n            \"DESCRIPCION\": \"DORITOS DINAMITA\",\r\n            \"STOCK\": \"8\",\r\n            \"PRECIO\": \"18.00\",\r\n            \"ID_PROVEEDOR\": \"2\"\r\n        }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8080/productos/"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8080/productos/3",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8080/productos/3"
+			},
+			"response": []
+		}
+	]
+}
